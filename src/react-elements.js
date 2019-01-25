@@ -27,6 +27,7 @@ const multilineElement = (
 );
 
 // use ReactDOM to convert React element to html element and add it to parent element as child
+// first argument is React element
 ReactDOM.render(jsxElement, document.getElementById('jsx-element'));
 ReactDOM.render(nativeElement, document.getElementById('native-element'));
 ReactDOM.render(multilineElement, document.getElementById('multi-line-element'));
