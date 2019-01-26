@@ -4,8 +4,8 @@ import TodoListItem from './todo-list-item';
 const ToDoList = () => {
     return (
         <ul>
-            <TodoListItem/>
-            <TodoListItem/>
+            <li><TodoListItem important label="Learn React"/></li>
+            <li><TodoListItem label="Drink coffee"/></li>
         </ul>
     );
 };
