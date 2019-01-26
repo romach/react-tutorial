@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # About tutorial
 
 This tutorial was created with [docsify.js](https://docsify.js.org)
