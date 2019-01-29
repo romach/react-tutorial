@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://romach.github.io/react-tutorial/blog</id>
+    <title>React tutorial Blog</title>
+    <updated>2019-01-29T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://romach.github.io/react-tutorial/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest React tutorial news and events.</subtitle>
+    <logo>https://romach.github.io/react-tutorial/img/react.svg</logo>
+    <rights>Copyright © 2019 Roman Cherepanov</rights>
+    <entry>
+        <title type="html"><![CDATA[Greetings]]></title>
+        <id>https://romach.github.io/react-tutorial/blog/2019/01/29/greeting-on-devops-tutorial-site.html</id>
+        <link href="https://romach.github.io/react-tutorial/blog/2019/01/29/greeting-on-devops-tutorial-site.html">
+        </link>
+        <updated>2019-01-29T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Hello! On this site I will write articles about <strong>React</strong>.</p> ]]></summary>
+        <author>
+            <name>Roman Cherepanov</name>
+            <uri>https://www.facebook.com/profile.php?id=1827649688</uri>
+        </author>
+    </entry>
+</feed>

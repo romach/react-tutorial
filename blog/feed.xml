@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>React tutorial Blog</title>
+        <link>https://romach.github.io/react-tutorial/blog</link>
+        <description>The best place to stay up-to-date with the latest React tutorial news and events.</description>
+        <lastBuildDate>Tue, 29 Jan 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>React tutorial Blog</title>
+            <url>https://romach.github.io/react-tutorial/img/react.svg</url>
+            <link>https://romach.github.io/react-tutorial/blog</link>
+        </image>
+        <copyright>Copyright © 2019 Roman Cherepanov</copyright>
+        <item>
+            <title><![CDATA[Greetings]]></title>
+            <link>https://romach.github.io/react-tutorial/blog/2019/01/29/greeting-on-devops-tutorial-site.html</link>
+            <guid>https://romach.github.io/react-tutorial/blog/2019/01/29/greeting-on-devops-tutorial-site.html</guid>
+            <pubDate>Tue, 29 Jan 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Hello! On this site I will write articles about <strong>React</strong>.</p> ]]></description>
+        </item>
+    </channel>
+</rss>
